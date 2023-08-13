@@ -1,2 +1,5 @@
-# Caravan-insurance
-Explore potential customers of caravan insurance company.
+# 카라반 보험 잠재고객 예측
+
+## 데이터 마이닝 강의 팀 프로젝트
+
+카라반 보험 회사의 잠재 고객을 예측하고 특징 분석
